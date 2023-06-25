@@ -1,7 +1,7 @@
 # Store-Data-Analysis-Using-Excel
 
 **Problem Statement - A shopping store wants to create an annual sales report
-for 2022. So that, Vrinda can understand their customers and grow more sales in 2023**
+for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.**
 Sample Questions-
 1. Compare the Sales and orders using single chart?
 2. Which month got the highest sales and orders?
